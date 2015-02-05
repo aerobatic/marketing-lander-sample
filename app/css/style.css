@@ -154,18 +154,18 @@ a.navbar-brand:hover {
 	width: 100%;
 }
 
-#header > .bg {
+#background {
   position: absolute;
   right: 0;
   left: 0;
   top: 0;
-  bottom: 0px;
+  bottom: 60px;
   z-index: -20;
-  background-image: url(../img/tree-bg.jpg);
+  background-image: url(../img/lush-grass.jpg);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: relative;
-  /*background-size: cover;*/
+  background-size: cover;
 }
 
 #header h1 {
