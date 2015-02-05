@@ -141,7 +141,7 @@ a.navbar-brand:hover {
 #header {	
   position: relative;
 	background-color: transparent;
-	margin-top: -20px;
+	margin-top: 0px;
 	padding-top: 150px;
 	min-height: 650px;
 	width: 100%;
@@ -154,7 +154,7 @@ a.navbar-brand:hover {
   top: 0;
   bottom: 0px;
   z-index: -20;
-  background-image: url(../img/tree-bg.jpg);
+  background-image: url(../img/lush-grass.jpg);
   background-repeat: no-repeat;
   background-position: center top;
   /*opacity: .8;*/
@@ -217,7 +217,7 @@ h2.subtitle {
 /* footer */
 #footer {
 	background: #fd680e;
-	padding: 20px 0 5px;
+	padding: 10px 0 5px;
 }
 
 p.copyright {

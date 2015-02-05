@@ -1,4 +1,6 @@
 $(document).ready(function() {
+  $("#email").val("").focus();
+
   ga('create', 'UA-59382049-1', 'auto');
 
   // Set the versionName as the first custom dimension
